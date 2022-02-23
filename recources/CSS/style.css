@@ -1,0 +1,140 @@
+body {
+    margin: 0 10%;
+    font-family: sans-serif;
+    background-color: #f8f8f8;
+
+}
+
+
+header h1 { 
+    padding: 0px 140px;
+}
+header h2 {
+    display: block;
+    font-size: 1.5em;
+    padding-right: 200px;;
+    font-weight:
+}
+
+
+.container {
+    border: 2px solid gray;
+    padding: 10px;
+    margin: 10px 140px;
+    
+}
+
+.cool-blue {
+    background-color: #2d5dcc;
+    color: white;
+    display:inline-block;
+    width: 32%;
+    text-align: center;
+    margin: 20px auto;
+    min-height: 100px;
+}
+
+.pink {
+    background-color: #d957d9;
+    color: white black;
+    display:inline-block;
+    width: 32%;
+    text-align: center;
+    margin: 20px auto;
+    min-height: 100px;
+}
+
+.mint-green {
+    background-color: #4fe0b0;
+    color: white black;
+    display:inline-block;
+    width: 32%;
+    text-align: center;
+    margin: 20px auto;
+    min-height: 100px;
+}
+
+.beige {
+    background-color: #efd9ca;
+    color: white black;
+    display:inline-block;
+    width: 32%;
+    text-align: center;
+    margin: 20px auto;
+    min-height: 100px;
+}
+
+
+.Source-code-pro{
+    font-family: monospace;
+    font-size: 20px;
+    text-decoration: underline;
+}
+
+.one-line{
+    font-family: monospace;
+    font-style: normal;
+}
+
+.two-line{
+    font-family: monospace;
+    font-weight: bold;
+}
+
+.three-line{
+    font-family: monospace;
+    font-style: italic;
+}
+
+
+.SSource-code-pro{
+    font-family: sans-serif;
+    font-size: 20px;
+    text-decoration: underline;
+}
+
+.oone-line{
+    font-family: sans-serif;
+    font-style: normal;
+}
+
+.ttwo-line{
+    font-family: sans-serif;
+    font-weight: 700;
+}
+
+.tthree-line{
+    font-family: sans-serif;
+    font-style: italic;
+}
+
+.font-panel {
+    width: 45%;
+    display: inline-block;
+}
+
+.SSSource-code-pro{
+    font-family: sans-serif;
+    font-size: 20px;
+    text-decoration: underline;
+}
+
+.ooone-line{
+    font-family: sans-serif;
+    font-style: normal;
+}
+
+.tttwo-line{
+    font-family: sans-serif;
+    font-weight: 700;
+}
+
+.ttthree-line{
+    font-family: sans-serif;
+    font-style: italic;
+}
+
+.hello {
+    font-size: 20px;
+    font-weight: bold;
+}
